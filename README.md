@@ -3,7 +3,7 @@ Personal Machine Learning Projects
 
 1. Neural Network for Credit Card Fraud Prediction.
 [(View on GitHub)](https://github.com/afiffitri-amin/ml-projects/blob/master/credit-card-fraud/credit-card-fraud.ipynb)
-[(View on nbviewer)](https://nbviewer.jupyter.org/github/afiffitri-amin/ml-projects/blob/master/credit-card-fraud/credit-card-fraud.ipynb)
+[(View on nbviewer)](https://github.com/afiffitri-amin/ml-projects/blob/master/credit-card-fraud/credit-card-fraud.ipynb)
 
 2. Clustering for Mall Customer Segmentation.
 [(View on GitHub)](https://github.com/afiffitri-amin/ml-projects/blob/master/mall-segmentation/Customer%20Segmentation%20(Clustering).ipynb)
