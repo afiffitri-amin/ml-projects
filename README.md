@@ -1,5 +1,5 @@
-# ml-projects
-Personal Machine Learning Projects
+# Projects
+Personal Projects
 
 1. Neural Network for Credit Card Fraud Prediction.
 [(View on GitHub)](https://github.com/afiffitri-amin/ml-projects/blob/master/credit-card-fraud/credit-card-fraud.ipynb)
