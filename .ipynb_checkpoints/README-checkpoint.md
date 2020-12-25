@@ -15,6 +15,6 @@ Personal Projects
 
 4. Image Classification using PyTorch and fastai
 [(View on GitHub)](https://github.com/afiffitri-amin/projects/blob/master/img-classification/img_classification_fastai.ipynb)
-[(View on nbviewer)](https://nbviewer.jupyter.org/github/afiffitri-amin/projects/blob/master/img-classification/img_classification_fastai.ipynb)\\
+[(View on nbviewer)](https://nbviewer.jupyter.org/github/afiffitri-amin/projects/blob/master/img-classification/img_classification_fastai.ipynb)
 
 
